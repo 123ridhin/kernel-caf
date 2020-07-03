@@ -1,5 +1,5 @@
 
-name: compiling kernel
+name: Lunaro kernel
 
 on:
 #  release:
